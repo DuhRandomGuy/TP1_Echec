@@ -6,6 +6,9 @@ import java.awt.event.ActionListener;
 public class MenuPartie extends JDialog{
     private JLabel title;
     private JPanel menuPartiePanel;
+    private JButton button1;
+    private JComboBox comboBox1;
+    private JComboBox comboBox2;
 
     public MenuPartie(JFrame parent) {
         super(parent);

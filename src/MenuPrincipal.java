@@ -28,6 +28,7 @@ public class MenuPrincipal extends JDialog {
 
                 //Création d'un objet MenuPartie
                 MenuPartie menuPartie = new MenuPartie(null);
+                JOptionPane.showMessageDialog(null, "Cock n balls", "I like cum", JOptionPane.ERROR_MESSAGE);
             }
         });
 
