@@ -1,12 +1,10 @@
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 
 public class MenuPartie extends JDialog{
     private JLabel title;
     private JPanel menuPartiePanel;
-    private JButton button1;
+    private JButton commencerLaPartieButton;
     private JComboBox comboBox1;
     private JComboBox comboBox2;
 

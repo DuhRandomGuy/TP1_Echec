@@ -4,7 +4,7 @@ import java.awt.*;
 public class MenuPuzzle extends JDialog{
     private JLabel title;
     private JPanel menuPuzzlePanel;
-    private JButton button1;
+    private JButton commencerLePuzzleButton;
     private JComboBox comboBox1;
 
     public MenuPuzzle(JFrame parent) {
